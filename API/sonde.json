@@ -1,0 +1,86 @@
+{"StatusSNS": {
+        "Time": "2018.02.01 21:29:50",
+        "DS18B20": {
+            "Temperature": 19.7,
+            "Humidity": 42.0
+        },
+        "TempUnit": "C"
+      },
+
+"StatusSNS": {
+        "Time": "2018.02.01 21:30:00",
+        "DS18B20": {
+          "Temperature": 19.7,
+		  "Humidity": 42.0
+        },
+        "TempUnit": "C"
+      },
+
+"StatusSNS": {
+        "Time": "2018.02.01 21:30:10",
+        "DS18B20": {
+          "Temperature": 19.6,
+		  "Humidity": 42.0
+        },
+        "TempUnit": "C"
+      },
+
+"StatusSNS": {
+        "Time": "2018.02.01 21:30:20",
+        "DS18B20": {
+          "Temperature": 19.5,
+		  "Humidity": 42.1
+        },
+        "TempUnit": "C"
+      },
+
+
+
+"StatusSNS": {
+        "Time": "2018.02.01 21:40:40",
+        "DS18B20": {
+          "Temperature": 17.0,
+		  "Humidity": 44.2
+        },
+        "TempUnit": "C"
+      },
+
+"StatusSNS": {
+        "Time": "2018.02.01 21:40:50",
+        "DS18B20": {
+          "Temperature": 16.8,
+		  "Humidity": 42.5
+        },
+        "TempUnit": "C"
+      },
+
+"StatusSNS": {
+        "Time": "2018.02.01 21:41:00",
+        "DS18B20": {
+          "Temperature": 16.6,
+		  "Humidity": 42.9
+        },
+        "TempUnit": "C"
+      },
+
+
+
+"StatusSNS": {
+        "Time": "2018.02.01 21:45:00",
+        "DS18B20": {
+          "Temperature": 12.3,
+		  "Humidity": 45.0
+        },
+        "TempUnit": "C"
+      },
+
+
+"StatusSNS": {
+        "Time": "2018.02.01 21:48:00",
+        "DS18B20": {
+          "Temperature": 11.5,
+		  "Humidity": 48
+        },
+        "TempUnit": "C"
+      }
+}
