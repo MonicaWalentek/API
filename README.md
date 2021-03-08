@@ -32,10 +32,10 @@ Cette sonde enverra des données (température, humidité, alimentation) à une 
 
 Lorsque la sonde sera monté, on utilisera un serveur Raspberry qui :
 
-- héberge le serveur web
-- héberge le SGBDR correctement configuré
+- hébergera le serveur web
+- hébergera le SGBDR correctement configuré
 - sera administrable via SSH
-- héberge l’API
+- hébergera l’API
 - disposera d’un écran afin d’afficher : son adresse IP, la date et heure, et fera défiler les derniers relevés des sondes
 La base de données ne sera accessible qu’à travers l’API
 
