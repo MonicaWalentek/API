@@ -2,14 +2,14 @@
 
 ### Introduction
 - Ce projet m'a été donné par mon centre de formation, le CESI.
-- L'API est en PHP et JSON
-- Le tout a été dévelopé sur MAMP donc l'API se trouve sur le même serveur que l'application pour le moment.
+- L'**API** est en **PHP** et **JSON**
+- Le tout a été dévelopé sur **MAMP** donc l'API se trouve sur le même serveur que l'application pour le moment.
 
 Tout ce qui se trouve actuellement sur cette page est la partie que j'ai développé par moi-même. [Le projet avance actuellement en groupe ici.](https://github.com/CESIDI20G2/projet)
 
 ### Présentation du projet
 
-Dans ce projet, nous devons concevoir un système de collecte de données météorologique qui s'articulera autour d'une API Rest. Nous devons :
+Dans ce projet, nous devons concevoir un système de collecte de données météorologique qui s'articulera autour d'une API REST. Nous devons :
 
 - Avoir une application web de visualisation des données
 - Avoir un prototype fonctionnel d’une sonde
